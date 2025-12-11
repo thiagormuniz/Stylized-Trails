@@ -1430,6 +1430,75 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1001 &2451370488656241613
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997816, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451370489130997822, guid: 6c261a38605f6ac44966168f38e8cfa9,
+        type: 3}
+      propertyPath: m_Name
+      value: AutoRotateTrails
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c261a38605f6ac44966168f38e8cfa9, type: 3}
 --- !u!4 &2914367984556484810
 Transform:
   m_ObjectHideFlags: 0

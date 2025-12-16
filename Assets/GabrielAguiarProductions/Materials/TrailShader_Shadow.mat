@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TrailShader_02
+  m_Name: TrailShader_Shadow
   m_Shader: {fileID: -6465566751694194690, guid: d30e388284387499c9cf42825ac8ca1c,
     type: 3}
   m_ValidKeywords: []

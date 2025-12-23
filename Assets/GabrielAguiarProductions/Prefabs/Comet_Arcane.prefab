@@ -258,7 +258,7 @@ GameObject:
   - component: {fileID: 4253623283035349880}
   - component: {fileID: 4253623283035349881}
   m_Layer: 0
-  m_Name: TrailComet
+  m_Name: Comet_Arcane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

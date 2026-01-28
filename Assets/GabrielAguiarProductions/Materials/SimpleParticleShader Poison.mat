@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SimpleParticleShader
+  m_Name: SimpleParticleShader Poison
   m_Shader: {fileID: -6465566751694194690, guid: ebb34c1a5ceeb43508a84b609c456500,
     type: 3}
   m_ValidKeywords:
@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Texture: {fileID: 2800000, guid: 2ad0ced42e58b48239d6a647d8cbeef1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -55,7 +55,7 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 25.688938, g: 25.688938, b: 25.688938, a: 0.6039216}
+    - _Color: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 0.6039216}
   m_BuildTextureStacks: []
 --- !u!114 &6112967908172940113
 MonoBehaviour:

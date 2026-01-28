@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SimpleParticleShader
+  m_Name: ParticlesFloatingDarkness
   m_Shader: {fileID: -6465566751694194690, guid: ebb34c1a5ceeb43508a84b609c456500,
     type: 3}
   m_ValidKeywords:
@@ -43,10 +43,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 0
-    - _Blend: 0
+    - _Blend: 2
     - _CastShadows: 1
     - _Cull: 0
-    - _DstBlend: 10
+    - _DstBlend: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
@@ -55,7 +55,7 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 25.688938, g: 25.688938, b: 25.688938, a: 0.6039216}
+    - _Color: {r: 59.017693, g: 59.017693, b: 59.017693, a: 0.6039216}
   m_BuildTextureStacks: []
 --- !u!114 &6112967908172940113
 MonoBehaviour:
